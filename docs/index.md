@@ -12,3 +12,8 @@ command /command-name-here:
   trigger:
     send "&cExample" to [player|console|executer]
 ```
+
+### Kills ###
+```
+kill [entity|player|loop|loop-player|loop-entity|attacker|victim]
+```
