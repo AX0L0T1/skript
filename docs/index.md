@@ -1,6 +1,6 @@
 # Skript #
 
-##Blacklisted Drops##
+## Blacklisted Drops ##
 
 ### Requires: ###
 - Skript 2.6.0
